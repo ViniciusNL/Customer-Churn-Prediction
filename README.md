@@ -139,73 +139,40 @@ The models are evaluated using multiple performance metrics.
 
 The project automatically generates several visualizations.
 
-## Exploratory Analysis
+## 📊 Exploratory Data Analysis
 
-- Customer Churn Distribution
+<p align="center">
+  <img src="figures/01_distribuicao_churn.png" width="48%">
+  <img src="figures/02_churn_por_categoria.png" width="48%">
+</p>
 
-![](figures/01_distribuicao_churn.png)
+<p align="center">
+  <img src="figures/03_numericas_por_churn.png" width="48%">
+  <img src="figures/04_correlacao.png" width="48%">
+</p>
 
----
-
-- Churn by Customer Category
-
-![](figures/02_churn_por_categoria.png)
-
----
-
-- Numerical Variables
-
-![](figures/03_numericas_por_churn.png)
+<p align="center">
+  <img src="figures/05_tenure_vs_monthly.png" width="70%">
+</p>
 
 ---
 
-- Correlation Matrix
+## 📈 Model Evaluation
 
-![](figures/04_correlacao.png)
+<p align="center">
+  <img src="figures/06_comparacao_metricas.png" width="48%">
+  <img src="figures/07_curvas_roc.png" width="48%">
+</p>
 
----
+<p align="center">
+  <img src="figures/08_curvas_precision_recall.png" width="48%">
+  <img src="figures/09_matrizes_confusao.png" width="48%">
+</p>
 
-- Tenure vs Monthly Charges
-
-![](figures/05_tenure_vs_monthly.png)
-
----
-
-# 📉 Model Comparison
-
-## Performance Comparison
-
-![](figures/06_comparacao_metricas.png)
-
----
-
-## ROC Curves
-
-![](figures/07_curvas_roc.png)
-
----
-
-## Precision-Recall Curves
-
-![](figures/08_curvas_precision_recall.png)
-
----
-
-## Confusion Matrices
-
-![](figures/09_matrizes_confusao.png)
-
----
-
-## Feature Importance
-
-![](figures/10_feature_importance.png)
-
----
-
-## Radar Chart
-
-![](figures/11_radar_comparativo.png)
+<p align="center">
+  <img src="figures/10_feature_importance.png" width="48%">
+  <img src="figures/11_radar_comparativo.png" width="48%">
+</p>
 
 ---
 
