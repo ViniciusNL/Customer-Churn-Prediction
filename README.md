@@ -142,17 +142,17 @@ The project automatically generates several visualizations.
 ## 📊 Exploratory Data Analysis
 
 <p align="center">
-  <img src="figures/01_distribuicao_churn.png" width="48%">
-  <img src="figures/02_churn_por_categoria.png" width="48%">
+  <img src="01_distribuicao_churn.png" width="48%">
+  <img src="02_churn_por_categoria.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="figures/03_numericas_por_churn.png" width="48%">
-  <img src="figures/04_correlacao.png" width="48%">
+  <img src="03_numericas_por_churn.png" width="48%">
+  <img src="04_correlacao.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="figures/05_tenure_vs_monthly.png" width="70%">
+  <img src="05_tenure_vs_monthly.png" width="70%">
 </p>
 
 ---
@@ -160,18 +160,18 @@ The project automatically generates several visualizations.
 ## 📈 Model Evaluation
 
 <p align="center">
-  <img src="figures/06_comparacao_metricas.png" width="48%">
-  <img src="figures/07_curvas_roc.png" width="48%">
+  <img src="06_comparacao_metricas.png" width="48%">
+  <img src="07_curvas_roc.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="figures/08_curvas_precision_recall.png" width="48%">
-  <img src="figures/09_matrizes_confusao.png" width="48%">
+  <img src="08_curvas_precision_recall.png" width="48%">
+  <img src="09_matrizes_confusao.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="figures/10_feature_importance.png" width="48%">
-  <img src="figures/11_radar_comparativo.png" width="48%">
+  <img src="10_feature_importance.png" width="48%">
+  <img src="11_radar_comparativo.png" width="48%">
 </p>
 
 ---
